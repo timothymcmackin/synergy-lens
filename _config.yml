@@ -1,7 +1,7 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
-baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Synergy Farm
+description: Boarding, training, lessons
+baseurl: "/pages/timothymcmackin/synergy-lens" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 
@@ -10,16 +10,17 @@ collections:
   photos:
 
 # Social settings
+phone: 555-123-4567
 500px_url:
-facebook_url:
+facebook_url: https://facebook.com
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+gitlab_url: 
+googleplus_url: 
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com
 
 # Build settings
 markdown: kramdown
